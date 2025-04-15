@@ -13,7 +13,13 @@ public class StringExample {
         System.out.println("str="+str);
 
         //\t 탭
+        str = "번호\t이름\t직업";
+        System.out.println("str="+str);
 
         //\n 줄바꿈
+        str = "나는 \n자바\n를 배웁니다. ";
+        System.out.println("str = " + str);
+
+        // ++ 자바에서는 변수에 새로운 값을 할당하면 기존 값은 덮어씌워지고, 최신 값만 남게 된다.
     }
 }

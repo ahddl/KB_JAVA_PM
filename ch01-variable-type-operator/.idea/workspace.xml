@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b96074be-beb3-4fe5-a3cc-c7226d9c937a" name="Changes" comment="내 필기(못따라감)" />
+    <list default="true" id="b96074be-beb3-4fe5-a3cc-c7226d9c937a" name="Changes" comment="내 필기(못따라감)">
+      <change afterPath="$PROJECT_DIR$/src/advenced/ch02/sec13/ScannerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch01/sec11/VariableInitializationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec03/OverflowUnderflowExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ch02/sec06/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch02/sec06/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ch02/sec08/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch02/sec08/TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02-conditional-loop-reference/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02-conditional-loop-reference/.idea/material_theme_project_new.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,23 +55,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Hello.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.VariableInitializationExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.TypeCasting">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.ch01.sec09.Hello" />
       <module name="ch01-variable-type-operator" />
@@ -74,8 +87,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ch02.sec08.TypeCasting" />
+      <module name="ch01-variable-type-operator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.ch02.sec08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableInitializationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ch01.sec11.VariableInitializationExample" />
+      <module name="ch01-variable-type-operator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.ch01.sec11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TypeCasting" />
+        <item itemvalue="Application.VariableInitializationExample" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -99,6 +140,7 @@
       <workItem from="1744697202110" duration="3405000" />
       <workItem from="1744701089689" duration="329000" />
       <workItem from="1744701429172" duration="1166000" />
+      <workItem from="1744704156526" duration="1659000" />
     </task>
     <task id="LOCAL-00001" summary="내 필기(못따라감)">
       <option name="closed" value="true" />
@@ -117,5 +159,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="내 필기(못따라감)" />
     <option name="LAST_COMMIT_MESSAGE" value="내 필기(못따라감)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/ch02/sec08/TypeCasting.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
