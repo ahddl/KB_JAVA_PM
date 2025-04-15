@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b96074be-beb3-4fe5-a3cc-c7226d9c937a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/ch01/sec09/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch01/sec11/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch02/sec01/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch02/sec06/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch02/sec08/TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b96074be-beb3-4fe5-a3cc-c7226d9c937a" name="Changes" comment="내 필기(못따라감)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,11 +98,24 @@
       <updated>1744697200840</updated>
       <workItem from="1744697202110" duration="3405000" />
       <workItem from="1744701089689" duration="329000" />
-      <workItem from="1744701429172" duration="916000" />
+      <workItem from="1744701429172" duration="1166000" />
     </task>
+    <task id="LOCAL-00001" summary="내 필기(못따라감)">
+      <option name="closed" value="true" />
+      <created>1744702473426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744702473426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="내 필기(못따라감)" />
+    <option name="LAST_COMMIT_MESSAGE" value="내 필기(못따라감)" />
   </component>
 </project>
