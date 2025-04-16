@@ -6,6 +6,7 @@ public class StringExample {
 
         String name = "홍길동";
         String job = "프로그래머";
+        System.out.printf(name, job);
 
         //\" 큰따옴표 표시
         //\' 작은 따옴표 표시
