@@ -1,4 +1,4 @@
-package basic.ch08.lecture;
+package lecture;
 
 public class Application {
     public static void main(String[] args) {

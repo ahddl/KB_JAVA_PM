@@ -1,4 +1,4 @@
-package basic.ch08.lecture;
+package lecture;
 
 public class Product implements InterProduct {
     @Override
