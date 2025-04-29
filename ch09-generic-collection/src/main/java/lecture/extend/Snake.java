@@ -1,4 +1,4 @@
 package main.java.lecture.extend;
 
-public class Snake {
+public class Snake extends Reptile{
 }

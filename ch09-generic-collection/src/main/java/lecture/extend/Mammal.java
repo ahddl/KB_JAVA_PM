@@ -1,4 +1,4 @@
 package main.java.lecture.extend;
 
-public class Mammal {
+public class Mammal implements Animal{
 }
