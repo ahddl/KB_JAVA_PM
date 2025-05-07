@@ -1,7 +1,7 @@
 package lecture.section01;
 
-public class Application {
-    public static void main(String[] args) throws Exception {
+public class Application2 {
+    public static void main(String[] args) {
 
         ExceptionTest et = new ExceptionTest();
 
@@ -9,6 +9,16 @@ public class Application {
          * 예외 처리방법
          * -> try-catch 처리
          * */
-        et.checkEnoughMoney(10000, 5000);
+        try {
+            et.checkEnoughMoney(10000, 5000);
+            System.out.println("==============상품 구입 가능 ==================");
+
+        } catch (Exception e) {
+
+            System.out.println("==============상품 구입 불가능 ==================");
+        }
+
+        System.out.println("프로그램 종료!");
+
     }
 }
